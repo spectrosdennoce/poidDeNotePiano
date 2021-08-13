@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "poid_dés/1.0.0": {
+        "dependencies": {
+          "Sanford.Multimedia.Midi": "6.6.2"
+        },
+        "runtime": {
+          "poid_dés.dll": {}
+        }
+      },
+      "Sanford.Multimedia.Midi/6.6.2": {
+        "runtime": {
+          "lib/net20/Sanford.Multimedia.Midi.dll": {
+            "assemblyVersion": "6.6.2.0",
+            "fileVersion": "6.6.2.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "poid_dés/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Sanford.Multimedia.Midi/6.6.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-SZ2SFJbig5i7SB8Li7z9ZAwceVym9U7Gj1aQy1sRXuwmyL4XqwfJ68dCpix2XFhmsyfZPhtEG1xZYnlad8D9lA==",
+      "path": "sanford.multimedia.midi/6.6.2",
+      "hashPath": "sanford.multimedia.midi.6.6.2.nupkg.sha512"
+    }
+  }
+}
